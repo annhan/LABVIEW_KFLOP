@@ -1,6 +1,18 @@
 # LABVIEW_KFLOP
 
-Test:
+This file is testing
+
+Function:
+
+Menu:
+- Read Xbox 360
+- Control 6 Axis with acc,vel
+- Add button for txt file.
+- Save file Gcode (...) 
+- Test IN/OUT
+
+Auto:
+- Load File Gcode (...)
 - Code Loop
 - Code Check  : Check bit 
 - Code CheckDone : end check
@@ -9,7 +21,7 @@ Test:
 - Code Wait: wait ms or wait for bit change
 - Code OUT : Set value to address
 
-Ex
+Ex Gcode output of menu:
 
 Linear,1,103528.140292,-348.118848,-7474.524913,-6740.956168,0.000000 ,100000,100000
 Linear,2,108788.099306,-1247.070740,-7886.116793,-4723.507598,-181.800000,100000,100000
